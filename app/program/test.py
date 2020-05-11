@@ -1,4 +1,4 @@
 import os
 import re
 
-print(os.getcwd())
+print(os.getcwd()+'\n')
